@@ -1,0 +1,15 @@
+D:\Coding\projects\C#\RmBank\bin\Debug\net6.0\RmBank.exe
+D:\Coding\projects\C#\RmBank\bin\Debug\net6.0\RmBank.deps.json
+D:\Coding\projects\C#\RmBank\bin\Debug\net6.0\RmBank.runtimeconfig.json
+D:\Coding\projects\C#\RmBank\bin\Debug\net6.0\RmBank.dll
+D:\Coding\projects\C#\RmBank\bin\Debug\net6.0\ref\RmBank.dll
+D:\Coding\projects\C#\RmBank\bin\Debug\net6.0\RmBank.pdb
+D:\Coding\projects\C#\RmBank\obj\Debug\net6.0\RmBank.csproj.AssemblyReference.cache
+D:\Coding\projects\C#\RmBank\obj\Debug\net6.0\RmBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\projects\C#\RmBank\obj\Debug\net6.0\RmBank.AssemblyInfoInputs.cache
+D:\Coding\projects\C#\RmBank\obj\Debug\net6.0\RmBank.AssemblyInfo.cs
+D:\Coding\projects\C#\RmBank\obj\Debug\net6.0\RmBank.csproj.CoreCompileInputs.cache
+D:\Coding\projects\C#\RmBank\obj\Debug\net6.0\RmBank.dll
+D:\Coding\projects\C#\RmBank\obj\Debug\net6.0\ref\RmBank.dll
+D:\Coding\projects\C#\RmBank\obj\Debug\net6.0\RmBank.pdb
+D:\Coding\projects\C#\RmBank\obj\Debug\net6.0\RmBank.genruntimeconfig.cache
